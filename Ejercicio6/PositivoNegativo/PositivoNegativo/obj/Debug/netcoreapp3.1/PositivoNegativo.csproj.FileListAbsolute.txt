@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\bin\Debug\netcoreapp3.1\PositivoNegativo.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\bin\Debug\netcoreapp3.1\PositivoNegativo.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\bin\Debug\netcoreapp3.1\PositivoNegativo.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\bin\Debug\netcoreapp3.1\PositivoNegativo.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\bin\Debug\netcoreapp3.1\PositivoNegativo.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\bin\Debug\netcoreapp3.1\PositivoNegativo.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\obj\Debug\netcoreapp3.1\PositivoNegativo.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\obj\Debug\netcoreapp3.1\PositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\obj\Debug\netcoreapp3.1\PositivoNegativo.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\obj\Debug\netcoreapp3.1\PositivoNegativo.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\obj\Debug\netcoreapp3.1\PositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\obj\Debug\netcoreapp3.1\PositivoNegativo.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\obj\Debug\netcoreapp3.1\PositivoNegativo.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio6\PositivoNegativo\PositivoNegativo\obj\Debug\netcoreapp3.1\PositivoNegativo.genruntimeconfig.cache

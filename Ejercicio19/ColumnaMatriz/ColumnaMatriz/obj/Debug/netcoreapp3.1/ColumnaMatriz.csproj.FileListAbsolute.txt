@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\bin\Debug\netcoreapp3.1\ColumnaMatriz.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\bin\Debug\netcoreapp3.1\ColumnaMatriz.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\bin\Debug\netcoreapp3.1\ColumnaMatriz.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\bin\Debug\netcoreapp3.1\ColumnaMatriz.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\bin\Debug\netcoreapp3.1\ColumnaMatriz.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\bin\Debug\netcoreapp3.1\ColumnaMatriz.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\obj\Debug\netcoreapp3.1\ColumnaMatriz.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\obj\Debug\netcoreapp3.1\ColumnaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\obj\Debug\netcoreapp3.1\ColumnaMatriz.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\obj\Debug\netcoreapp3.1\ColumnaMatriz.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\obj\Debug\netcoreapp3.1\ColumnaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\obj\Debug\netcoreapp3.1\ColumnaMatriz.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\obj\Debug\netcoreapp3.1\ColumnaMatriz.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio19\ColumnaMatriz\ColumnaMatriz\obj\Debug\netcoreapp3.1\ColumnaMatriz.genruntimeconfig.cache

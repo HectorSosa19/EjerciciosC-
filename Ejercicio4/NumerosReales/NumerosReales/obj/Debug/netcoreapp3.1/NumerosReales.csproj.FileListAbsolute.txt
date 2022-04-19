@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\bin\Debug\netcoreapp3.1\NumerosReales.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\bin\Debug\netcoreapp3.1\NumerosReales.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\bin\Debug\netcoreapp3.1\NumerosReales.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\bin\Debug\netcoreapp3.1\NumerosReales.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\bin\Debug\netcoreapp3.1\NumerosReales.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\bin\Debug\netcoreapp3.1\NumerosReales.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\obj\Debug\netcoreapp3.1\NumerosReales.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\obj\Debug\netcoreapp3.1\NumerosReales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\obj\Debug\netcoreapp3.1\NumerosReales.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\obj\Debug\netcoreapp3.1\NumerosReales.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\obj\Debug\netcoreapp3.1\NumerosReales.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\obj\Debug\netcoreapp3.1\NumerosReales.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\obj\Debug\netcoreapp3.1\NumerosReales.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio4\NumerosReales\NumerosReales\obj\Debug\netcoreapp3.1\NumerosReales.genruntimeconfig.cache

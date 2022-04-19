@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio9\NumerosPares\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.genruntimeconfig.cache

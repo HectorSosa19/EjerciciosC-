@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\bin\Debug\netcoreapp3.1\PaisHabitantes.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\bin\Debug\netcoreapp3.1\PaisHabitantes.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\bin\Debug\netcoreapp3.1\PaisHabitantes.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\bin\Debug\netcoreapp3.1\PaisHabitantes.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\bin\Debug\netcoreapp3.1\PaisHabitantes.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\bin\Debug\netcoreapp3.1\PaisHabitantes.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\obj\Debug\netcoreapp3.1\PaisHabitantes.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\obj\Debug\netcoreapp3.1\PaisHabitantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\obj\Debug\netcoreapp3.1\PaisHabitantes.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\obj\Debug\netcoreapp3.1\PaisHabitantes.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\obj\Debug\netcoreapp3.1\PaisHabitantes.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\obj\Debug\netcoreapp3.1\PaisHabitantes.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\obj\Debug\netcoreapp3.1\PaisHabitantes.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio18\PaisHabitantes\PaisHabitantes\obj\Debug\netcoreapp3.1\PaisHabitantes.genruntimeconfig.cache

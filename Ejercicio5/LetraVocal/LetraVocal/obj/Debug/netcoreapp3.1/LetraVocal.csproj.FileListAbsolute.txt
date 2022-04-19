@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\bin\Debug\netcoreapp3.1\LetraVocal.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\bin\Debug\netcoreapp3.1\LetraVocal.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\bin\Debug\netcoreapp3.1\LetraVocal.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\bin\Debug\netcoreapp3.1\LetraVocal.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\bin\Debug\netcoreapp3.1\LetraVocal.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\bin\Debug\netcoreapp3.1\LetraVocal.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\obj\Debug\netcoreapp3.1\LetraVocal.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\obj\Debug\netcoreapp3.1\LetraVocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\obj\Debug\netcoreapp3.1\LetraVocal.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\obj\Debug\netcoreapp3.1\LetraVocal.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\obj\Debug\netcoreapp3.1\LetraVocal.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\obj\Debug\netcoreapp3.1\LetraVocal.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\obj\Debug\netcoreapp3.1\LetraVocal.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio5\LetraVocal\LetraVocal\obj\Debug\netcoreapp3.1\LetraVocal.genruntimeconfig.cache

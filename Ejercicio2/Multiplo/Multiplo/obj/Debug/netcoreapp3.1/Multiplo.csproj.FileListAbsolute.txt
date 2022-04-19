@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\bin\Debug\netcoreapp3.1\Multiplo.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\bin\Debug\netcoreapp3.1\Multiplo.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\bin\Debug\netcoreapp3.1\Multiplo.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\bin\Debug\netcoreapp3.1\Multiplo.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\bin\Debug\netcoreapp3.1\Multiplo.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\bin\Debug\netcoreapp3.1\Multiplo.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\obj\Debug\netcoreapp3.1\Multiplo.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\obj\Debug\netcoreapp3.1\Multiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\obj\Debug\netcoreapp3.1\Multiplo.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\obj\Debug\netcoreapp3.1\Multiplo.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\obj\Debug\netcoreapp3.1\Multiplo.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\obj\Debug\netcoreapp3.1\Multiplo.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\obj\Debug\netcoreapp3.1\Multiplo.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio2\Multiplo\Multiplo\obj\Debug\netcoreapp3.1\Multiplo.genruntimeconfig.cache

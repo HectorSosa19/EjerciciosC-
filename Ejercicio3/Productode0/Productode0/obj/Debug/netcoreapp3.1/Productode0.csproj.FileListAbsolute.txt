@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\bin\Debug\netcoreapp3.1\Productode0.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\bin\Debug\netcoreapp3.1\Productode0.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\bin\Debug\netcoreapp3.1\Productode0.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\bin\Debug\netcoreapp3.1\Productode0.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\bin\Debug\netcoreapp3.1\Productode0.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\bin\Debug\netcoreapp3.1\Productode0.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\obj\Debug\netcoreapp3.1\Productode0.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\obj\Debug\netcoreapp3.1\Productode0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\obj\Debug\netcoreapp3.1\Productode0.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\obj\Debug\netcoreapp3.1\Productode0.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\obj\Debug\netcoreapp3.1\Productode0.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\obj\Debug\netcoreapp3.1\Productode0.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\obj\Debug\netcoreapp3.1\Productode0.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio3\Productode0\Productode0\obj\Debug\netcoreapp3.1\Productode0.genruntimeconfig.cache

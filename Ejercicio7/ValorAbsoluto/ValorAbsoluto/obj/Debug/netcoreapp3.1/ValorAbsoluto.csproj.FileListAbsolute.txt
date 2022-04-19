@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio7\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.genruntimeconfig.cache

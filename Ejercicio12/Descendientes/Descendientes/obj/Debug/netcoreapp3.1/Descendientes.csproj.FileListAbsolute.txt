@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\bin\Debug\netcoreapp3.1\Descendientes.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\bin\Debug\netcoreapp3.1\Descendientes.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\bin\Debug\netcoreapp3.1\Descendientes.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\bin\Debug\netcoreapp3.1\Descendientes.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\bin\Debug\netcoreapp3.1\Descendientes.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\bin\Debug\netcoreapp3.1\Descendientes.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\obj\Debug\netcoreapp3.1\Descendientes.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\obj\Debug\netcoreapp3.1\Descendientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\obj\Debug\netcoreapp3.1\Descendientes.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\obj\Debug\netcoreapp3.1\Descendientes.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\obj\Debug\netcoreapp3.1\Descendientes.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\obj\Debug\netcoreapp3.1\Descendientes.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\obj\Debug\netcoreapp3.1\Descendientes.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio12\Descendientes\Descendientes\obj\Debug\netcoreapp3.1\Descendientes.genruntimeconfig.cache

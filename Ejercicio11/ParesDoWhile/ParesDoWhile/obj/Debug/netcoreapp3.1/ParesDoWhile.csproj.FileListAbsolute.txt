@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\bin\Debug\netcoreapp3.1\ParesDoWhile.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\bin\Debug\netcoreapp3.1\ParesDoWhile.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\bin\Debug\netcoreapp3.1\ParesDoWhile.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\bin\Debug\netcoreapp3.1\ParesDoWhile.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\bin\Debug\netcoreapp3.1\ParesDoWhile.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\bin\Debug\netcoreapp3.1\ParesDoWhile.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\obj\Debug\netcoreapp3.1\ParesDoWhile.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\obj\Debug\netcoreapp3.1\ParesDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\obj\Debug\netcoreapp3.1\ParesDoWhile.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\obj\Debug\netcoreapp3.1\ParesDoWhile.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\obj\Debug\netcoreapp3.1\ParesDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\obj\Debug\netcoreapp3.1\ParesDoWhile.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\obj\Debug\netcoreapp3.1\ParesDoWhile.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio11\ParesDoWhile\ParesDoWhile\obj\Debug\netcoreapp3.1\ParesDoWhile.genruntimeconfig.cache

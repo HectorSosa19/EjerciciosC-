@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\bin\Debug\netcoreapp3.1\VectorPaises.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\bin\Debug\netcoreapp3.1\VectorPaises.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\bin\Debug\netcoreapp3.1\VectorPaises.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\bin\Debug\netcoreapp3.1\VectorPaises.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\bin\Debug\netcoreapp3.1\VectorPaises.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\bin\Debug\netcoreapp3.1\VectorPaises.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\obj\Debug\netcoreapp3.1\VectorPaises.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\obj\Debug\netcoreapp3.1\VectorPaises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\obj\Debug\netcoreapp3.1\VectorPaises.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\obj\Debug\netcoreapp3.1\VectorPaises.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\obj\Debug\netcoreapp3.1\VectorPaises.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\obj\Debug\netcoreapp3.1\VectorPaises.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\obj\Debug\netcoreapp3.1\VectorPaises.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio17\VectorPaises\VectorPaises\obj\Debug\netcoreapp3.1\VectorPaises.genruntimeconfig.cache

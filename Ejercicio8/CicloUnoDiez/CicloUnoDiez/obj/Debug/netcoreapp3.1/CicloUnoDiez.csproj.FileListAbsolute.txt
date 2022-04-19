@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\bin\Debug\netcoreapp3.1\CicloUnoDiez.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\bin\Debug\netcoreapp3.1\CicloUnoDiez.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\bin\Debug\netcoreapp3.1\CicloUnoDiez.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\bin\Debug\netcoreapp3.1\CicloUnoDiez.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\bin\Debug\netcoreapp3.1\CicloUnoDiez.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\bin\Debug\netcoreapp3.1\CicloUnoDiez.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\obj\Debug\netcoreapp3.1\CicloUnoDiez.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\obj\Debug\netcoreapp3.1\CicloUnoDiez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\obj\Debug\netcoreapp3.1\CicloUnoDiez.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\obj\Debug\netcoreapp3.1\CicloUnoDiez.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\obj\Debug\netcoreapp3.1\CicloUnoDiez.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\obj\Debug\netcoreapp3.1\CicloUnoDiez.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\obj\Debug\netcoreapp3.1\CicloUnoDiez.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio8\CicloUnoDiez\CicloUnoDiez\obj\Debug\netcoreapp3.1\CicloUnoDiez.genruntimeconfig.cache

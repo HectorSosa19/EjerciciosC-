@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\bin\Debug\netcoreapp3.1\PrimerosOcho.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\bin\Debug\netcoreapp3.1\PrimerosOcho.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\bin\Debug\netcoreapp3.1\PrimerosOcho.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\bin\Debug\netcoreapp3.1\PrimerosOcho.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\bin\Debug\netcoreapp3.1\PrimerosOcho.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\bin\Debug\netcoreapp3.1\PrimerosOcho.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\obj\Debug\netcoreapp3.1\PrimerosOcho.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\obj\Debug\netcoreapp3.1\PrimerosOcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\obj\Debug\netcoreapp3.1\PrimerosOcho.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\obj\Debug\netcoreapp3.1\PrimerosOcho.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\obj\Debug\netcoreapp3.1\PrimerosOcho.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\obj\Debug\netcoreapp3.1\PrimerosOcho.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\obj\Debug\netcoreapp3.1\PrimerosOcho.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio13\PrimerosOcho\PrimerosOcho\obj\Debug\netcoreapp3.1\PrimerosOcho.genruntimeconfig.cache

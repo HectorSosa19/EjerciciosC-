@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio14\MultiplosDeTres\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.genruntimeconfig.cache

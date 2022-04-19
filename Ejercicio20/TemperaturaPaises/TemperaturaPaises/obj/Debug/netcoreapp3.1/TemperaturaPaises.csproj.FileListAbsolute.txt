@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\bin\Debug\netcoreapp3.1\TemperaturaPaises.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\bin\Debug\netcoreapp3.1\TemperaturaPaises.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\bin\Debug\netcoreapp3.1\TemperaturaPaises.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\bin\Debug\netcoreapp3.1\TemperaturaPaises.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\bin\Debug\netcoreapp3.1\TemperaturaPaises.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\bin\Debug\netcoreapp3.1\TemperaturaPaises.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\obj\Debug\netcoreapp3.1\TemperaturaPaises.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\obj\Debug\netcoreapp3.1\TemperaturaPaises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\obj\Debug\netcoreapp3.1\TemperaturaPaises.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\obj\Debug\netcoreapp3.1\TemperaturaPaises.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\obj\Debug\netcoreapp3.1\TemperaturaPaises.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\obj\Debug\netcoreapp3.1\TemperaturaPaises.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\obj\Debug\netcoreapp3.1\TemperaturaPaises.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio20\TemperaturaPaises\TemperaturaPaises\obj\Debug\netcoreapp3.1\TemperaturaPaises.genruntimeconfig.cache

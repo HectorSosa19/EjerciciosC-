@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.exe
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.deps.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.dll
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.pdb
+C:\Users\hecto\OneDrive\Escritorio\EjerciciosConsola(C#)\Ejercicio15\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.genruntimeconfig.cache

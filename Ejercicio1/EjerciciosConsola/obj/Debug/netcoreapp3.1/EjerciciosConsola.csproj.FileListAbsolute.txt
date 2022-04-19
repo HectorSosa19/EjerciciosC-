@@ -1,0 +1,14 @@
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.exe
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.deps.json
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.runtimeconfig.json
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.runtimeconfig.dev.json
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.dll
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.pdb
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.AssemblyInfoInputs.cache
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.AssemblyInfo.cs
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.dll
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.pdb
+C:\Users\hecto\source\repos\EjerciciosConsola\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.genruntimeconfig.cache
